@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/achinwo/endodb/issues"
   },
-  "homepage": "https://github.com/achinwo/endodb#readme"
+  "homepage": "https://github.com/achinwo/endodb#readme",
+  "dependencies": {
+    "enum": "^2.4.0"
+  }
 }
